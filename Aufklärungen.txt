@@ -1,7 +1,5 @@
 AUFKLÄRUNGEN
 
-ANTIKOAGULATION
-
 BLUTTRANSFUSION 
 -	Allergie, Unverträglichkeit
 -	Transfusionsreaktion

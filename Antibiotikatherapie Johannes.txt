@@ -7,9 +7,13 @@ Amoxiclav (Augmentan)
 - ((0,5g Amoxicillin + 0,125g Clavulansäure) x 3 p.o.)	
 - (0,875g Amoxicillin + 0,125 Clavulansäure) x3	
 
+Ampicillin 
+- 2g 3x tgl. i.v.
+
 Unacid	
 - (2g Ampicillin + 1g Sulbactam) x 3 i.v.
-- (2g Ampicillin + 1g Sulbactam) x 4 i.v.	
+- (2g Ampicillin + 1g Sulbactam) x 4 i.v.
+- bei V.a. Endomyometritis, Puerperalfieber, bei Plastiken & TVT mit in den OP	
 - Puerper. Mammaabszess: Standard bis 48h fieberfrei ->  Amoxiclav highdose 10d
 
 Azithromycin	
@@ -22,6 +26,9 @@ Cefaclor
 Cefazolin	
 - 2g x 3 i.v.		
 - Allergie: Clindamycin gg GBS
+
+Cefpodoxim 
+- 500 mg 1-0-1 für 10 d
 
 Ciprofloxacin (Ciprobay)	
 - 0,5g x 2 p.o. / 0,4g x 2 i.v.	
@@ -37,7 +44,7 @@ Fosfomycin
 - 3g singledose p.o.		
 
 Flucloxacillin (Staphylex)	
-- 1g x 3 p.o. / 2g x 4 i.v.	
+- 1g x 3 p.o. für 7-10 Tage, ggf. für 14 Tage/ 2g x 4 i.v.	
 - 1g x 4 p.o. / 2g x 6 i.v.	
 - Puerperale Mastitis
 

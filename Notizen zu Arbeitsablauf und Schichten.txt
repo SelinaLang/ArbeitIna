@@ -39,8 +39,6 @@ Nachtdienst: Geburtenbuch + CTGs, Kreissaalübergabe, OPs, Einbestellungsplan
 Spätdienst: morgens Konsilliste, Spülmaschine, Aufräumen, U-Zimmer (Sono, Licht, Zusperren, PCs), Labore für OPs nächster Tag abklicken
 
 
-OP-Programm: Montag flexibel // Dienstag Brust // Mittwoch Karzinom + 2 kleine Punkte (1. Mittwoch im Monat flexibel) // Donnerstag Hysterektomie + Beckenboden // Freitag flexibel
-
 
 
 Websiten
