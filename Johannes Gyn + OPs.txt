@@ -173,3 +173,95 @@ Standard vor Judith: Post -OP: präOP ohne Gerinnung an Tag 1; „Schmerzmedikat
 Post-OP Angaben: ATS, Drainagen ex nach ärztlicher Angabe, Brustwickel ab am Folgetag, Psychoonkologie und ggf. Sozialdienst (Anmeldung Orbis), Info an Firma Klopf , postOP-Tumorboard anmelden
 Entlassung Mamma: nach Drainagenzug, Fadenzug Tag 7-10, WV in der Brustsprechstunde 2 Wochen nach OP, Physiotherapie; Krankmeldung, Brief, Tumorboard anlegen für Freitag nach OP, Termin ausmachen 1 Woche später,
 
+
+
+
+Infektionen in der Gynäkologie
+
+HWI / Pyelonephritis
+- Fosfomycin, Nitrofurantoin, Ciprofloxacin, Cephalosporine, AmoxiClav
+
+Vulvovaginalcandidose
+- Clotrimazol 500 mg 1x vaginal + Creme
+
+Aminvaginose (Gardnerella vaginalis)
+- AmSEL-Kriterien: Amingeruch, Schlüsselzellen, erhöhter pH > 4,5, liquider Fluor
+- Metronidazol p.o. + Laktobazillen
+
+Herpes genitalis
+- Aciclovir oral 10 d oder lokal (in SS)
+
+Condylomata accuminata (HPV 6, 11)
+- Imiquimod 5% Creme, Laserablation
+
+Bartholinitis
+- Amoxicillin + Metronidazol
+- Marsupialisation
+
+Adnexitis / pelvic inflammatory disease (meist Gonokokken, Chlamydien)
+- Ceftriaxon i.v. + Doxycyclin p.o. + Metronidazol i.v. 
+
+Chlamydien
+- Doxycyclin 
+
+Trichomonadenvaginose
+- Metronidazol p.o.
+
+Gonorrhoe / Tripper
+- Ceftriaxon + Azithromycin
+
+Lues / Syphilis
+- Penicillin G i.m.
+
+Mastitis non-puerperalis (Staph aureus, beta-hämolysierende Streptokokken)
+- Flucloxacillin, Cephalosporin + Prolaktinhemmer
+
+Gynäkologie 
+
+Belastungsinkontinenz 
+- Grad I (Husten, Sport), II (Laufen, Treppensteigen), III (Sitzen, Lachen)
+- T konservativ: Beckenbodengymnastik, Pessare, lokale Östrogene, Biofeedback, Duloxetin (Yentreve)
+- T operativ: TVT-Band, Kolposuspension nach Burch, Bulkamid-Injektion in Urethrawand
+
+Dranginkontinenz
+- OAB dry vs. wet
+- T konservativ: Anticholinergika (Vesicur, Trospium, Tolterodin, Darifenacin), Pessare, ...
+- T operaitv: transurethrale Botox-Injektion in Detrusor
+
+Descensus genitalis
+- Grad I (- 1 cm vor Introitus), II (am Introitus), III (+ 2 cm über Introitus), IV (Totalprolaps)
+- T konservativ: Beckenbodengymnastik, lokale Östrogene, Pessare
+- T operativ: Kolorrhaphia anterior / posterior, Vaginaefixation sacrospinalis (Amreich-Richter), Kolposacropexie, Netzimplantate
+
+Endometriose
+- Klassifikation rASRM, ENZIAN
+- T Goldstandard: chirurgische Entfernung aller Herde
+- T medikamentös: NSAR, Gestagene (Dienogest 2 mg) in Dauertherapie, KOK, GnRH-Analoga (< 6 Mon)
+
+Polyzystisches Ovarialsyndrom
+- Rotterdam-Kriterien: Hyperandrogenismus, Oligo-/Anovulation, Ovar > 10 ml / > 12 Follikel
+- T: Metformin, KOK, bei KiWu Follikelstimulation mittels Clomifen oder Letrozol
+
+Myome
+- T präoperativ: GnRH-Analoga / -Antagonisten, Ulipristalacetat, Gestagene perimenopausal
+
+Mamma-Ca 
+- Staging: Sono oder Mgr, Stanze / Vakuumbiopsie, LK-Biopsie, CT Thx/Abd, Abdomen-Sono, Skelettszinti, ggf. PET-CT, ggf. cMRT
+- OP + Radiatio + (neo)adjuvante Chemo (Epirubicin + Cyclophosphamid + Paclitaxel/Docetaxel + ggf. Carboplatin, Palbociclib, Pembrolizumab, Olaparib, Trastuzumab, Tamoxifen, Anastrozol)
+
+Ovarial-Ca
+- Staging: Ca125, Sono Abdomen, CT/MRT/PET Thx/Abd/Becken, Genetik (BRCA, HNPCC), operatives Staging
+- OP + adjuvante Chemo (Carboplatin + Paclitaxel + ggf. Bevacizumab + Niraparib)
+
+Endometrium-Ca
+- Staging: HSK-Abrasio, TVUS, Rö Thx, MRT/CT Becken, ggf. Skelettszinti
+- OP + Radiatio + Chemotherapie (Carboplatin + Paclitaxel)
+
+Zervix-Ca
+- Staging: Kolposkopie + Portio-PE, SCC/CEA/Ca125, TVUS, Nierensono, MRT Becken, CT Thx/Abd, ggf. Zysto-, Rektoskopie, operatives LK-Staging
+- OP oder Radiochemotherapie (Cisplatin)
+
+Vagina-/Vulva-Ca
+- Staging: Vulvoskopie + Stanze, TVUS, Kolposkopie, Palp + Sono inguinofem. LK, Sono Abdomen, Resktoskopie, Zystoskopie, CT Thx/Abd/Becken
+- OP oder Radiochemotherapie (Cisplatin oder Mitomycin + 5-FU)
+
